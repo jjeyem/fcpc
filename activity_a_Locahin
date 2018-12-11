@@ -1,0 +1,21 @@
+val1 = 20
+val2 = 40
+val3 = 60
+
+
+print(val1+val2+val3)
+
+for x in range(1,10,3):
+    print(x)
+
+cat = 'Persian'
+
+if cat == 'Persian':
+    print('Cute!')
+else:
+    print("I don't want a cat!")
+
+val6 = 5>=1
+val7 = 6==6
+print(val6)
+print(val7)
